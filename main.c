@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "library1.h"
 #include "library2.h"
+#include "libAlies.h"
 //just a comment1
 void main(void) 
 {
